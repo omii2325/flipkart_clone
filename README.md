@@ -1,2 +1,2 @@
 # flipkart_clone
-This is the redme file so how was your day 
+This is the readme file so how was your day !!!
